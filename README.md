@@ -3,7 +3,7 @@
 **Datum** 15.10.2018
 
 In dieser Laborübung
-beschäftigen wir uns mit der Versioncverwaltung
+beschäftigen wir uns mit der Versionsverwaltung
 
 Versionsverwaltungssytem
 
@@ -15,11 +15,11 @@ Versionsverwaltungssytem
 
 Wichtige Schritte in Git sind:
 
-1. git add
-2.git commint
-3.git push
+1.*git add
+2.*git commint
+3.*git push
 
-Weitere Dokumentationen zu Git sind [hier] https://guides.github.com/features/mastering-markdown/#syntax zu finden.
+Weitere Dokumentationen zu Git sind [hier] (https://guides.github.com/features/mastering-markdown/#syntax) zu finden.
 
 Ein erstes C-Programm ist sieht so aus:
 
